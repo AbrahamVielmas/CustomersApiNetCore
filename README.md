@@ -1,5 +1,5 @@
 # CustomersApiNetCore
-Api construida sobre net 6 uso de swagger, conectada a una BD de clecer-cloud
+Api construida sobre net 6 uso de swagger, conectada a una BD de clever-cloud
 
 ##Link:
 http://www.bavt-api-customers.somee.com/api/customer  Trai todos los clientes
